@@ -6,4 +6,4 @@ This project demands a foundational understanding of HTML and CSS. From this wil
 
 Task Name : Landing Page
 
-LinkedIn Post : https://bit.ly/3u7ua9k
+LinkedIn Post : [https://bit.ly/3u7ua9k](https://landing-page-interships.vercel.app/)
