@@ -6,4 +6,4 @@ This project demands a foundational understanding of HTML and CSS. From this wil
 
 Task Name : Landing Page
 
-LinkedIn Post : [https://bit.ly/3u7ua9k](https://landing-page-interships.vercel.app/)
+LinkedIn Post : https://www.linkedin.com/posts/saurav-kumar-171078269_oasisinfobyte-webdevelopment-frontenddevelopment-activity-7323763658927353857-wGJE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGu_eUBnqXp7R5Ix59UqYOAVcBrC3zSGMk
